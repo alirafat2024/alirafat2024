@@ -1,64 +1,100 @@
 <h1 align="center">Hi 👋, I'm Mohammad Ali Rafat</h1>
 
-###
+<h3 align="center">
+Full-Stack Developer | Shopify APP & Theme Developer | Problem Solver
+</h3>
 
-<p align="left">Full-Stack Developer | Shopify APP & Theme Developer | Problem Solver</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=600&color=22D3EE&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Shopify+App+and+Theme+Developer;Laravel+%7C+Symfony+REST+APIs;Clean+Code+%7C+Scalable+Apps;Always+Learning+New+Things" />
+</p>
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 👨‍💻 About Me
 
-###
+- 🎓 Computer Science Graduate  
+- 💻 Passionate Full-Stack Developer  
+- <img src="https://cdn.simpleicons.org/shopify" height="20"/> Shopify APP & Theme Developer
+- ⚙️ Focused on building real-world applications  
+- 🚀 Interested in scalable and modern systems  
+- 🧠 Always learning and improving skills  
 
-<p align="left">• 🎓 Computer Science Graduate<br>• 💻 Passionate Full-Stack Developer<br>• 🟢 Shopify App & Theme Developer<br>• ⚙️ Focused on building real-world applications<br>• 🚀 Interested in scalable and modern systems<br>• 🧠 Always learning and improving skills.</p>
+---
 
-###
+## 💻 Tech Stack
 
-<h2 align="left">💻 Tech Stack</h2>
+### 🖥️ Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,alpinejs&theme=dark" />
+</p>
 
-###
+---
 
-<p align="left">🖥️ Frontend</p>
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,symfony,expressjs,nodejs,mongodb&theme=dark" />
+</p>
 
-###
+<p>
+  <img src="https://img.shields.io/badge/REST%20API-0f172a?style=for-the-badge&logo=fastapi&logoColor=22d3ee" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-</div>
+---
 
-###
-<hr/>
-<p align="left">⚙️ Backend</p>
+### <img src="https://cdn.simpleicons.org/shopify" height="20"/> Shopify APP & Theme Development
+<p>
+  <img src="https://skillicons.dev/icons?i=liquid,react,react+router,graphql&theme=dark" />
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-</div>
 
-###
+### 🔧 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman&theme=dark" />
+</p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/alirafat2024/alirafat2024/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/alirafat2024/alirafat2024/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 📊 GitHub Stats
+<p align="center">
+  <img height="170px" src="https://streak-stats.demolab.com?user=alirafat2024&theme=tokyonight&hide_border=true" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirafat2024&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alirafat2024&bg_color=0f172a&color=06b6d4&line=22d3ee&point=06b6d4&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="mohammadalirafat102@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/alirafat2024">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mohammadalirafat790021/">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" />
+  </a>
+    </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mohammadalirafat790021/">
+    <img src="https://skillicons.dev/icons?i=x&theme=dark" width="48" />
+  </a>
+</p>
+
+---
+
+## 🧠 Developer Mindset
+
+> “Code is not just about solving problems, it's about building solutions that last.”
+
+- Keep learning 📚  
+- Build real projects 🚀  
+- Write clean code ✨  
+- Never give up 💪
